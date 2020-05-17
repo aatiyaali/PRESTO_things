@@ -1,0 +1,20 @@
+ Data file name without suffix          =  279957111
+ Telescope used                         =  TESS
+ Instrument used                        =  unset
+ Object being observed                  =  279957111
+ J2000 Right Ascension (hh:mm:ss.ssss)  =  05:27:52.6361
+ J2000 Declination     (dd:mm:ss.ssss)  =  -68:59:08.4156
+ Data observed by                       =  unset
+ Epoch of observation (MJD)             =  1354.109316561062
+ Barycentered?           (1 yes, 0 no)  =  0
+ Number of bins in the time series      =  229376
+ Width of each time series bin (sec)    =  120.0
+ Any breaks in the data? (1 yes, 0 no)  =  0
+ Type of observation (EM band)          =  Optical
+ Photometric filter used                =  Other
+ Field-of-view diameter (arcsec)        =  180.00
+ Central wavelength (nm)                =  500.0
+ Bandpass (nm)                          =  400.0
+ Data analyzed by                       =  unset
+ Any additional notes:
+   none

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for file in *.fft
+do 
+	accelsearch -numharm 8 -zmax 2 -flo 0.0000048 "$file"
+done

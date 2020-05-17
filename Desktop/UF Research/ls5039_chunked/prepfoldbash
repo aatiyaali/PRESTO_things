@@ -1,0 +1,12 @@
+#!/bin/bash
+
+for dat in *.dat
+do
+for candidate in *.cand
+do 
+for number in {1..10}
+do
+	prepfold -slow -npart 1 -accelfile "$candidate" -accelcand "$number" "$dat"
+done
+done
+done

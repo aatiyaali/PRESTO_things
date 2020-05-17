@@ -1,0 +1,20 @@
+ Data file name without suffix          =  389437365_tfaw4_ts
+ Telescope used                         =  GTC
+ Instrument used                        =  CIRCE
+ Object being observed                  =  389437365
+ J2000 Right Ascension (hh:mm:ss.ssss)  =  18:26:15.0568
+ J2000 Declination     (dd:mm:ss.ssss)  =  -14:50:54.242
+ Data observed by                       =  Dallilar
+ Epoch of observation (MJD)             =  1325.29536961675
+ Barycentered?           (1 yes, 0 no)  =  0
+ Number of bins in the time series      =  17196
+ Width of each time series bin (sec)    =  120
+ Any breaks in the data? (1 yes, 0 no)  =  0
+ Type of observation (EM band)          =  IR
+ Photometric filter used                =  Other
+ Field-of-view diameter (arcsec)        =  180.00
+ Central wavelength (nm)                =  500.0
+ Bandpass (nm)                          =  400.0
+ Data analyzed by                       =  unset
+ Any additional notes:
+   none

@@ -1,0 +1,13 @@
+#!/bin/bash
+
+for dat in 389437365_tfaw4_ts.dat
+do
+for candidate in 389437365_tfaw4_ts_ACCEL_2.cand
+do 
+for number in {1..14}
+do
+	prepfold -slow -npart 1 -accelfile "$candidate" -accelcand "$number" "$dat"
+	
+done
+done
+done

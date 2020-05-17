@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for file in *.dat
+do 
+	realfft "$file"
+done 
